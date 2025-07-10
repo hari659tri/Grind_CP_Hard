@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Hash Table
 |  |
@@ -37,9 +38,14 @@
 ## Greedy
 |  |
 | ------- |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+## Enumeration
+|  |
+| ------- |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 <!---LeetCode Topics End-->
