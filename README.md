@@ -59,4 +59,12 @@
 |  |
 | ------- |
 | [2479-meeting-rooms-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2479-meeting-rooms-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+## Memoization
+|  |
+| ------- |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 <!---LeetCode Topics End-->
