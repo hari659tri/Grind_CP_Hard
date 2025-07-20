@@ -1,26 +1,27 @@
 class Solution {
 public:
-    int minimumRounds(vector<int>& packageSizes) {
-        unordered_map<int, int> freq;
-    for (int size : packageSizes) {
-        freq[size]++;
-    }
-
-    int trips = 0;
-
-    for (auto [size, count] : freq) {
-        if (count == 1) return -1;  // Cannot make a pair or triplet
-
-        // Minimize trips using 3s
-        trips += count / 3;
-        int rem = count % 3;
-
-        if (rem != 0) {
-            // If remainder is 1 or 2, we need 1 more trip
-            trips++;
+    int minimumRounds(vector<int>& tasks) {
+        unordered_map<int,int>mp;//-->>{task,count}
+       //  we are greedly larger taks i.e 3 first greedly due to it is greedy problem 
+        for(auto it:tasks){
+            mp[it]++;
         }
-    }
 
-    return trips;
+       int round=0;
+        for(auto it:mp){
+            int cnt=it.second;
+            if(cnt==1) return -1;
+
+
+            if(cnt%3==0){
+           round+=cnt/3;
+            }
+            else{
+                round+=(cnt/3)+1;
+            }
+        }
+
+        return round;
+
     }
 };
