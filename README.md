@@ -30,6 +30,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2479-meeting-rooms-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -40,6 +41,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0560-subarray-sum-equals-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2479-meeting-rooms-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2479-meeting-rooms-iii) |
 ## Counting
 |  |
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -103,8 +106,13 @@
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0560-subarray-sum-equals-k) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
