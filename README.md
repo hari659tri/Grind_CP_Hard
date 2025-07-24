@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0033-search-in-rotated-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0239-sliding-window-maximum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0560-subarray-sum-equals-k) |
@@ -143,4 +144,8 @@
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1818-maximum-score-from-removing-substrings) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
