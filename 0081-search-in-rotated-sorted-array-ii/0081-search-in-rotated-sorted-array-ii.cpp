@@ -16,9 +16,10 @@ public:
                 return true;
             }
 
-            if (nums[mid] == nums[s]) {
+            if (nums[mid] == nums[s]&&nums[mid]==nums[e]) {
                 // Handle the case where nums[mid] == nums[s]
                 s++; // Move to the next element
+                e--;
                 continue;
             }
 
