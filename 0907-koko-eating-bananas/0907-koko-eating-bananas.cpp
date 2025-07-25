@@ -1,7 +1,7 @@
 class Solution {
 public:   
      
-     long long fun(vector<int>& piles,int k){
+     long long fun(vector<int>& piles,int k ){
         int n=piles.size();
 
          long long hr=0;
@@ -40,7 +40,7 @@ public:
      int ans=INT_MAX;
 
       while(low<=high){
-        int mid=low+(high-low)/2;
+         int mid=low+(high-low)/2;
          long long hour=fun(piles,mid);
         if(hour<=h){
            ans=min(ans,mid);
