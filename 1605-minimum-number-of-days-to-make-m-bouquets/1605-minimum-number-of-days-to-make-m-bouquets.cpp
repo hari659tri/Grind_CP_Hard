@@ -1,46 +1,57 @@
 class Solution {
 public:
-    // Return the number of maximum bouquets that can be made on day mid.
-    int getNumOfBouquets(vector<int>& bloomDay, int mid, int k) {
-        int numOfBouquets = 0;
-
-        int count = 0;
-        for (int i = 0; i < bloomDay.size(); i++) {
-            // If the flower is bloomed, add to the set. Else reset the count.
-            if (bloomDay[i] <= mid) {
-                count++;
-            } else {
-                count = 0;
-            }
-
-            if (count == k) {
-                numOfBouquets++;
-                count = 0;
-            }
+   bool fun(vector<int>& bloomDay,int m,int k,int dayno){
+      
+      int  n=bloomDay.size();
+      int noofbloom=0;
+      int cnt=0;
+      for(int i=0;i<n;i++){
+        if(bloomDay[i]<=dayno) cnt++;
+        else{
+      noofbloom+=(cnt/k);
+      cnt=0;
+     
         }
+      }
+   
+       noofbloom+=(cnt/k);
+      return   noofbloom>=m ;
 
-        return numOfBouquets;
-    }
 
+      
+   }
     int minDays(vector<int>& bloomDay, int m, int k) {
-        int start = 0;
-        int end = 0;
-        for (int day : bloomDay) {
-            end = max(end, day);
-        }
+        
 
-        int minDays = -1;
-        while (start <= end) {
-            int mid = (start + end) / 2;
+        int n=bloomDay.size();
 
-            if (getNumOfBouquets(bloomDay, mid, k) >= m) {
-                minDays = mid;
-                end = mid - 1;
-            } else {
-                start = mid + 1;
-            }
-        }
+       if((long long)m*k>n) return -1;
+       
+        int maxi=*max_element(bloomDay.begin(),bloomDay.end());
+        int mini=*min_element(bloomDay.begin(),bloomDay.end());
 
-        return minDays;
+
+        //   for(int i=mini;i<=maxi;i++){
+
+        //     if(fun(bloomDay,m,k,i)==true) return i;
+        //   }
+
+
+   // brute force did'nt work here apply it binary serach
+
+
+   while(mini<=maxi){
+    long long mid=(mini+maxi)/2;
+
+    if(fun(bloomDay,m,k,mid)){
+        maxi=mid-1;
+    }
+    else{
+        mini=mid+1;
+    }
+   }
+    
+    return mini;
+
     }
 };
