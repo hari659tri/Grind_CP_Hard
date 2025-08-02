@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    void dfs(vector<bool>&vis,vector<int>adj[],int node){
+    void dfs(vector<bool>&vis,vector<int>*adj,int node){
 
         vis[node]=true;
 
