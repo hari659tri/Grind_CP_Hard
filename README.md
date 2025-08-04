@@ -33,6 +33,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0239-sliding-window-maximum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0560-subarray-sum-equals-k) |
@@ -135,6 +136,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0547-number-of-provinces) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -156,11 +158,13 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0547-number-of-provinces) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0547-number-of-provinces) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Graph
@@ -192,4 +196,8 @@
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
