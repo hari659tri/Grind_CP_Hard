@@ -51,9 +51,11 @@ public:
 
         int cntExtraEdges=0; // camel case include a best practices 
 
-        for(auto it:connections){
-            int u=it[0];
-            int v=it[1];
+         int a= connections.size();
+
+         for(int i=0;i<a;i++){
+            int u=connections[i][0];
+            int v=connections[i][1];
 
             if(ds.findPar(u)==ds.findPar(v)){
                 cntExtraEdges++;
@@ -61,20 +63,23 @@ public:
             else{
                 ds.unionByRank(u,v);
             }
-        }
+         }
 
-       
-       int numberOfConnectedCmp=0;
-       for(int i=0;i<n;i++){
-        if(ds.parent[i]==i){
-            numberOfConnectedCmp++;
-        }
-       }
-       
-       int ans=numberOfConnectedCmp-1;
-    
-     return cntExtraEdges>=ans?ans:-1;
-       
+
+
+         // count the number of connected component show that you able to know minimum required edges 
+         int nc=0;
+         for(int i=0;i<n;i++){
+
+            if(ds.parent[i]==i){
+                nc++;
+            }
+         }
+
+
+      int ans=nc-1;
+
+      return cntExtraEdges>=ans?ans:-1;
 
     }
 };
