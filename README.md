@@ -10,6 +10,7 @@
 | [0342-power-of-four](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0367-valid-perfect-square) |
 | [1448-maximum-69-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1448-maximum-69-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Bit Manipulation
@@ -58,6 +59,7 @@
 | [2079-delete-duplicate-folders-in-system](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
