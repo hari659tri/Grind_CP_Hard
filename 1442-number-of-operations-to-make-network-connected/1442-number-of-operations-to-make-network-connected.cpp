@@ -81,7 +81,7 @@ public:
          int noofConnectedcompo=0;
 
          for(int i=0;i<n;i++){
-            if(ds.findParent(i)==i){
+            if(ds.parent[i]==i){
                 noofConnectedcompo++;
             }
          }
