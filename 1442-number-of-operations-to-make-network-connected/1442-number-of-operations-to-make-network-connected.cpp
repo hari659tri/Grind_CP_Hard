@@ -1,45 +1,61 @@
-class DisjointSet{ // pascal case
+class Disjoint{
 
-    public:
-    vector<int>parent,rank;
-    DisjointSet(int n){
-        parent.resize(n);
-        rank.resize(n,0);
+  public:
+    
+    vector<int>rank;
+    vector<int>parent;
+   Disjoint(int n){
 
-        for(int i=0;i<n;i++){
-            parent[i]=i;
-        }
+       rank.resize(n,0);
+       parent.resize(n);
+
+       for(int i=0;i<n;i++){
+        parent[i]=i;
+       }
+
+   }
+
+
+   int findParent(int node){
+
+    if(parent[node]==node){
+        return node;
     }
 
-    //gives us ultimate parent or boss of the component or group 
-   
-    int findPar(int node){
-        if(node==parent[node]) return node;
+    else{
 
-        return parent[node]=findPar(parent[node]);  // apply a path compression techniques
+        return parent[node]=findParent(parent[node]);
+    }
+   }
+
+
+
+   void unionByRank(int u,int v){
+
+    int upar=findParent(u);
+    int vpar=findParent(v);
+
+    if(rank[upar]<rank[vpar]){
+        parent[upar]=vpar;
 
     }
-
-    void  unionByRank(int u,int v){
-
-       int ulp_u=findPar(u);
-       int ulp_v=findPar(v);
-
-       if(ulp_u==ulp_v) return ; //if they are belong to the same component
-
-       if(rank[ulp_u]<rank[ulp_v]){
-        parent[ulp_u]=ulp_v;
-       }
-       else if(rank[ulp_u]>rank[ulp_v]){
-          parent[ulp_v]=ulp_u;
-       }
-       else{
-          parent[ulp_v]=ulp_u;
-          rank[ulp_u]++;
-       }
+    else if(rank[upar]>rank[vpar]){
+      
+      parent[vpar]=upar;
     }
+    else{
+    parent[vpar]=upar;
+    rank[upar]++;
+    }
+   }
+
 
 };
+
+
+
+
+
 
 
 
@@ -47,39 +63,31 @@ class Solution {
 public:
     int makeConnected(int n, vector<vector<int>>& connections) {
         
-        DisjointSet ds(n);
+        int cntExtraEdges=0; // this is the that number of required edges which is a make cycle if both co,outer 
+        // belong to the same component then they have surely th conncted and count it is as extra edges 
+       
+          Disjoint ds(n);
+        
+         for(int i=0;i<connections.size();i++){
 
-        int cntExtraEdges=0; // camel case include a best practices 
-
-         int a= connections.size();
-
-         for(int i=0;i<a;i++){
-            int u=connections[i][0];
-            int v=connections[i][1];
-
-            if(ds.findPar(u)==ds.findPar(v)){
-                cntExtraEdges++;
+            if(ds.findParent(connections[i][0])==ds.findParent(connections[i][1])){
+                 cntExtraEdges++;
             }
             else{
-                ds.unionByRank(u,v);
+                ds.unionByRank(connections[i][0],connections[i][1]);
             }
-         }
+         }  
+         
+         int noofConnectedcompo=0;
 
-
-
-         // count the number of connected component show that you able to know minimum required edges 
-         int nc=0;
          for(int i=0;i<n;i++){
-
-            if(ds.parent[i]==i){
-                nc++;
+            if(ds.findParent(i)==i){
+                noofConnectedcompo++;
             }
          }
 
 
-      int ans=nc-1;
-
-      return cntExtraEdges>=ans?ans:-1;
+        return cntExtraEdges>=noofConnectedcompo-1?noofConnectedcompo-1:-1;
 
     }
 };
