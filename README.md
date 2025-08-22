@@ -24,6 +24,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -251,6 +252,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0908-middle-of-the-linked-list) |
 ## Monotonic Stack
 |  |
