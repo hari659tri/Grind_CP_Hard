@@ -40,6 +40,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -124,6 +125,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0015-3sum) |
 | [0721-accounts-merge](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0721-accounts-merge) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2479-meeting-rooms-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2479-meeting-rooms-iii) |
@@ -151,6 +153,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0167-two-sum-ii-input-array-is-sorted) |
