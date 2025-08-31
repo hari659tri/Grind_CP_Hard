@@ -50,6 +50,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0037-sudoku-solver) |
 | [0055-jump-game](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -93,6 +94,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0202-happy-number) |
@@ -281,6 +283,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0200-number-of-islands) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1628-count-submatrices-with-all-ones) |
@@ -317,4 +320,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
