@@ -4,16 +4,24 @@ public:
    int mod=1e9+7;
 
     int findPower(long long a,long long b){
+        
+      if(a==0) return 0;
+        if(b==0||a==1) return 1;
 
-        if(b==0) return 1;
+         int result=1;
 
-        long long half=findPower(a,b/2);
+         while(b!=0){
 
-        long long result=(half*half)%mod;
+            if(b%2){
+               result= (result*a)%mod;
+                b--;
+            }
+            else{
+                a=(a*a)%mod;
+                b=b/2;
+            }
 
-        if(b%2==1){
-            result=(result*a)%mod;
-        }
+         }
 
         return result;
     } 
