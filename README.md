@@ -177,6 +177,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0410-split-array-largest-sum) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -222,6 +223,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0125-valid-palindrome) |
 | [0721-accounts-merge](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0721-accounts-merge) |
 | [0782-jewels-and-stones](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0782-jewels-and-stones) |
@@ -352,6 +354,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0037-sudoku-solver) |
 ## Geometry
 |  |
