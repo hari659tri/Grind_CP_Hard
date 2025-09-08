@@ -64,6 +64,7 @@
 | [0036-valid-sudoku](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -384,6 +385,7 @@
 | [0022-generate-parentheses](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0078-subsets) |
 ## Geometry
 |  |
