@@ -66,6 +66,7 @@
 | [0039-combination-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0088-merge-sorted-array) |
@@ -179,6 +180,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0148-sort-list) |
 | [0451-sort-characters-by-frequency](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0451-sort-characters-by-frequency) |
