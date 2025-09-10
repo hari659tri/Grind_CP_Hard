@@ -67,6 +67,7 @@
 | [0040-combination-sum-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0088-merge-sorted-array) |
@@ -321,6 +322,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -348,6 +350,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0200-number-of-islands) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1628-count-submatrices-with-all-ones) |
