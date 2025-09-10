@@ -95,6 +95,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1628-count-submatrices-with-all-ones](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1628-count-submatrices-with-all-ones) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -135,6 +136,7 @@
 | [0782-jewels-and-stones](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2479-meeting-rooms-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2479-meeting-rooms-iii) |
@@ -155,6 +157,7 @@
 | [0670-maximum-swap](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0670-maximum-swap) |
 | [1448-maximum-69-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1917-maximum-average-pass-ratio) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2032-largest-odd-number-in-string) |
