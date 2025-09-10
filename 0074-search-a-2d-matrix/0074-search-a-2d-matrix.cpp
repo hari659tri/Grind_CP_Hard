@@ -33,15 +33,14 @@ public:
       for(int i=0;i<m;i++){
 
         if(matrix[i][0]<=target&&target<=matrix[i][n-1]){
-           return bs(matrix[i],target);
+           ans= bs(matrix[i],target);
         }
       }
 
      
        //if(ans) return true;
      
-     return false;
-      //time complexity O(m*n)
-      //space complexity O(1)
+     return ans==true?true: false;
+      
     }
 };
