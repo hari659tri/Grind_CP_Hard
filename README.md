@@ -72,6 +72,7 @@
 | [0078-subsets](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0088-merge-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0200-number-of-islands) |
@@ -208,6 +209,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0055-jump-game) |
+| [0119-pascals-triangle-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0119-pascals-triangle-ii) |
 | [0410-split-array-largest-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0410-split-array-largest-sum) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1013-fibonacci-number) |
