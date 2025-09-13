@@ -151,12 +151,14 @@
 | [2479-meeting-rooms-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2479-meeting-rooms-iii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0451-sort-characters-by-frequency) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
 | ------- |
@@ -290,6 +292,7 @@
 | [2079-delete-duplicate-folders-in-system](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2887-sort-vowels-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Depth-First Search
 |  |
 | ------- |
