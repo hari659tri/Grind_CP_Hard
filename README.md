@@ -281,6 +281,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2032-largest-odd-number-in-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -341,6 +342,7 @@
 | [0234-palindrome-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1078-remove-outermost-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1628-count-submatrices-with-all-ones) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Binary Search
 |  |
