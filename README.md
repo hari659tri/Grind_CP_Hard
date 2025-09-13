@@ -75,6 +75,7 @@
 | [0088-merge-sorted-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0119-pascals-triangle-ii) |
+| [0139-word-break](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0200-number-of-islands) |
@@ -129,6 +130,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0037-sudoku-solver) |
+| [0139-word-break](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0202-happy-number) |
@@ -216,6 +218,7 @@
 | [0118-pascals-triangle](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0139-word-break) |
 | [0410-split-array-largest-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0410-split-array-largest-sum) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1013-fibonacci-number) |
@@ -227,6 +230,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1013-fibonacci-number) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Two Pointers
@@ -267,6 +271,7 @@
 | [0079-word-search](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0721-accounts-merge) |
@@ -294,6 +299,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0139-word-break) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Prefix Sum
