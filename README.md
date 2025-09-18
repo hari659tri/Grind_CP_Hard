@@ -167,6 +167,7 @@
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2479-meeting-rooms-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2479-meeting-rooms-iii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3678-design-task-manager](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -239,6 +240,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0451-sort-characters-by-frequency) |
 | [1917-maximum-average-pass-ratio](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1917-maximum-average-pass-ratio) |
 | [2479-meeting-rooms-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2479-meeting-rooms-iii) |
+| [3678-design-task-manager](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3678-design-task-manager) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -436,6 +438,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0493-reverse-pairs) |
+| [3678-design-task-manager](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3791-fruits-into-baskets-iii) |
 ## Linked List
@@ -507,4 +510,8 @@
 | ------- |
 | [0204-count-primes](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0204-count-primes) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Design
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
