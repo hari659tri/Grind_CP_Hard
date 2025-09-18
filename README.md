@@ -11,6 +11,7 @@
 | [0189-rotate-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0204-count-primes) |
+| [0282-expression-add-operators](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0367-valid-perfect-square) |
@@ -307,6 +308,7 @@
 | [0139-word-break](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0165-compare-version-numbers) |
+| [0282-expression-add-operators](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0282-expression-add-operators) |
 | [0451-sort-characters-by-frequency](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0721-accounts-merge](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0721-accounts-merge) |
@@ -476,6 +478,7 @@
 | [0079-word-search](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0282-expression-add-operators) |
 ## Geometry
 |  |
 | ------- |
