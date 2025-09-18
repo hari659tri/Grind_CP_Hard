@@ -161,6 +161,7 @@
 | [0940-fruit-into-baskets](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -175,6 +176,7 @@
 | [0229-majority-element-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0451-sort-characters-by-frequency) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
@@ -320,6 +322,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2032-largest-odd-number-in-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2186-count-vowel-substrings-of-a-string) |
