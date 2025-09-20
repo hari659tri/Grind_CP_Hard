@@ -11,6 +11,7 @@
 | [0189-rotate-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0342-power-of-four) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -45,6 +47,7 @@
 | [0002-add-two-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0342-power-of-four) |
