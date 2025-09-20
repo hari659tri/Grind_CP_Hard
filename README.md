@@ -106,6 +106,7 @@
 | [0410-split-array-largest-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0493-reverse-pairs) |
+| [0506-relative-ranks](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0721-accounts-merge) |
@@ -236,6 +237,7 @@
 | [0169-majority-element](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0506-relative-ranks) |
 | [0721-accounts-merge](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0721-accounts-merge) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2479-meeting-rooms-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2479-meeting-rooms-iii) |
@@ -247,6 +249,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0506-relative-ranks) |
 | [1917-maximum-average-pass-ratio](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1917-maximum-average-pass-ratio) |
 | [2479-meeting-rooms-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2479-meeting-rooms-iii) |
 | [3678-design-task-manager](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3678-design-task-manager) |
