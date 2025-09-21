@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0069-sqrtx) |
