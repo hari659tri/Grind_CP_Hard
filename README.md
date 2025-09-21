@@ -125,6 +125,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2023-design-movie-rental-system](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -171,6 +172,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2023-design-movie-rental-system](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -251,6 +253,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0506-relative-ranks) |
 | [1917-maximum-average-pass-ratio](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2023-design-movie-rental-system) |
 | [2479-meeting-rooms-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2479-meeting-rooms-iii) |
 | [3678-design-task-manager](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3678-design-task-manager) |
 ## Dynamic Programming
@@ -451,6 +454,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0493-reverse-pairs) |
+| [2023-design-movie-rental-system](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2023-design-movie-rental-system) |
 | [3678-design-task-manager](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3791-fruits-into-baskets-iii) |
@@ -527,5 +531,6 @@
 ## Design
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2023-design-movie-rental-system) |
 | [3678-design-task-manager](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
