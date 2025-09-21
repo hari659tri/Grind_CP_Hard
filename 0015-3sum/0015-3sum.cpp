@@ -2,48 +2,7 @@ class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
         
-      // set<vector<int>>st;
- 
-       // brute force time complexity O(n^3)
-    //    for(int i=0;i<n;i++){
-    //     for(int j=i+1;j<n;j++){
-    //         for(int k=j+1;k<n;k++){
-
-    //             if(nums[i]+nums[j]+nums[k]==0){
-    //                 vector<int>temp={nums[i],nums[j],nums[k]};
-    //                 sort(nums.begin(),nums.end());
-    //                 st.insert(temp);
-
-    //             }
-    //         }
-    //     }
-    //    }
-
-    // time complexity --->O(n^2log(m)) which give tle also 
-  
-    //     for(int i=0;i<n;i++){
-    //         set<int>hs;
-    //         for(int j=i+1;j<n;j++){
-    //          int third=-(nums[i]+nums[j]);
-    //          if(hs.find(third)!=hs.end()){
-    //             vector<int>temp={nums[i],nums[j],third};
-    //             sort(temp.begin(),temp.end());
-
-    //             st.insert(temp);
-    //          }
-
-    //             hs.insert(nums[j]);
-    //         }
-    //     }
-
-
-
-
-
-    //  vector<vector<int>> ans(st.begin(),st.end());
-    //  return ans;
-
-       
+      // optimized solution  
       
         int n=nums.size();
         
