@@ -1,7 +1,7 @@
 <img src="https://codeforces.org/s/17562/images/codeforces-sponsored-by-ton.png"/>
 
 <!---LeetCode Topics Start-->
-# LeetCode Questions
+# LeetCode Topics
 ## Math
 |  |
 | ------- |
@@ -137,6 +137,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -180,6 +181,7 @@
 | [2479-meeting-rooms-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2479-meeting-rooms-iii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3678-design-task-manager](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -192,6 +194,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
