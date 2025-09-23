@@ -35,6 +35,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3830-find-closest-person](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3830-find-closest-person) |
+| [3936-split-array-by-prime-indices](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3936-split-array-by-prime-indices) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -152,6 +153,7 @@
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3791-fruits-into-baskets-iii) |
+| [3936-split-array-by-prime-indices](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3936-split-array-by-prime-indices) |
 ## Hash Table
 |  |
 | ------- |
@@ -538,6 +540,7 @@
 | [2507-number-of-common-factors](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2507-number-of-common-factors) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [3936-split-array-by-prime-indices](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3936-split-array-by-prime-indices) |
 ## Design
 |  |
 | ------- |
