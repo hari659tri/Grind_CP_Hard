@@ -32,6 +32,7 @@
 | [2507-number-of-common-factors](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2507-number-of-common-factors) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2873-prime-pairs-with-target-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2873-prime-pairs-with-target-sum) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -145,6 +146,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2873-prime-pairs-with-target-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2873-prime-pairs-with-target-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -238,6 +240,7 @@
 | [0204-count-primes](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0204-count-primes) |
 | [2507-number-of-common-factors](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2507-number-of-common-factors) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2873-prime-pairs-with-target-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2873-prime-pairs-with-target-sum) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -546,6 +549,7 @@
 | [2507-number-of-common-factors](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2507-number-of-common-factors) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2873-prime-pairs-with-target-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2873-prime-pairs-with-target-sum) |
 | [3936-split-array-by-prime-indices](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3936-split-array-by-prime-indices) |
 ## Design
 |  |
