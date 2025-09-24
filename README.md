@@ -20,6 +20,7 @@
 | [0367-valid-perfect-square](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0367-valid-perfect-square) |
 | [0523-continuous-subarray-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0523-continuous-subarray-sum) |
 | [0670-maximum-swap](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0670-maximum-swap) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1279-prime-arrangements](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1279-prime-arrangements) |
@@ -47,6 +48,7 @@
 | [0191-number-of-1-bits](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0342-power-of-four) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
