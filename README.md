@@ -132,6 +132,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0940-fruit-into-baskets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1256-rank-transform-of-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -193,6 +194,7 @@
 | [0721-accounts-merge](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0721-accounts-merge) |
 | [0782-jewels-and-stones](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0940-fruit-into-baskets) |
+| [1256-rank-transform-of-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1256-rank-transform-of-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -270,6 +272,7 @@
 | [0506-relative-ranks](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0721-accounts-merge) |
+| [1256-rank-transform-of-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2479-meeting-rooms-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2479-meeting-rooms-iii) |
