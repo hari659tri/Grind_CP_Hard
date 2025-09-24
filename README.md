@@ -40,6 +40,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3830-find-closest-person](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3830-find-closest-person) |
+| [3859-maximum-product-of-two-digits](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3859-maximum-product-of-two-digits) |
 | [3936-split-array-by-prime-indices](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3936-split-array-by-prime-indices) |
 ## Bit Manipulation
 |  |
@@ -269,6 +270,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2887-sort-vowels-in-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2887-sort-vowels-in-a-string) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3859-maximum-product-of-two-digits](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3859-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
