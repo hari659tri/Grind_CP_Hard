@@ -25,6 +25,7 @@
 | [1013-fibonacci-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1279-prime-arrangements](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1279-prime-arrangements) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1448-maximum-69-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1477-product-of-the-last-k-numbers) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1950-sign-of-the-product-of-an-array) |
