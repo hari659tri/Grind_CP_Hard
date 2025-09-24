@@ -44,6 +44,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -501,6 +502,7 @@
 | [0053-maximum-subarray](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0493-reverse-pairs) |
 ## Merge Sort
