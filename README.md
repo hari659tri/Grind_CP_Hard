@@ -108,6 +108,7 @@
 | [0088-merge-sorted-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -301,6 +302,7 @@
 | [0055-jump-game](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0139-word-break) |
 | [0410-split-array-largest-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0410-split-array-largest-sum) |
