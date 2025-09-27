@@ -42,6 +42,7 @@
 | [2873-prime-pairs-with-target-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2873-prime-pairs-with-target-sum) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3321-type-of-triangle](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3830-find-closest-person](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3830-find-closest-person) |
@@ -166,6 +167,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3321-type-of-triangle](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3321-type-of-triangle) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -286,6 +288,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2887-sort-vowels-in-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2887-sort-vowels-in-a-string) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3321-type-of-triangle](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3321-type-of-triangle) |
 | [3859-maximum-product-of-two-digits](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3859-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
