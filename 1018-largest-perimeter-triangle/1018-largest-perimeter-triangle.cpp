@@ -13,5 +13,18 @@ public:
          }
 
          return 0;
+         // time complexity is O(nlogn)
+
+
+
+         /*
+         A triangle is valid if the triangle inequality holds:
+         a+b>c,b+c>a,a+c>b
+         If a + b > c, the triangle is valid and has non-zero area.
+         If a + b = c, it is degenerate (zero area)
+         If a + b < c, no triangle is possible.
+
+         */
+
     }
 };
