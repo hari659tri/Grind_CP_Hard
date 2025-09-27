@@ -23,6 +23,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0670-maximum-swap) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0830-largest-triangle-area](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -132,6 +133,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0724-find-pivot-index) |
+| [0830-largest-triangle-area](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0830-largest-triangle-area) |
 | [0907-koko-eating-bananas](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0940-fruit-into-baskets) |
@@ -555,6 +557,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0830-largest-triangle-area) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Bucket Sort
 |  |
