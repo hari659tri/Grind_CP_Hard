@@ -35,6 +35,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2050-count-good-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2507-number-of-common-factors](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2507-number-of-common-factors) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2479-meeting-rooms-iii) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -160,6 +162,7 @@
 | [2079-delete-duplicate-folders-in-system](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -608,4 +611,8 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1477-product-of-the-last-k-numbers) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
