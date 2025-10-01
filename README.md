@@ -154,6 +154,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1628-count-submatrices-with-all-ones](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1628-count-submatrices-with-all-ones) |
+| [1677-matrix-diagonal-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1677-matrix-diagonal-sum) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -516,6 +517,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0240-search-a-2d-matrix-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1628-count-submatrices-with-all-ones) |
+| [1677-matrix-diagonal-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1677-matrix-diagonal-sum) |
 | [2722-prime-in-diagonal](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2722-prime-in-diagonal) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
