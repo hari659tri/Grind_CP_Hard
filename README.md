@@ -155,6 +155,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1477-product-of-the-last-k-numbers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -312,6 +313,7 @@
 | [0853-most-profit-assigning-work](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0853-most-profit-assigning-work) |
 | [1018-largest-perimeter-triangle](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1256-rank-transform-of-an-array) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2479-meeting-rooms-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2479-meeting-rooms-iii) |
@@ -328,6 +330,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0506-relative-ranks) |
 | [0794-swim-in-rising-water](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0794-swim-in-rising-water) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1917-maximum-average-pass-ratio) |
@@ -521,6 +524,7 @@
 | [0907-koko-eating-bananas](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1612-avoid-flood-in-the-city) |
@@ -550,6 +554,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0240-search-a-2d-matrix-ii) |
 | [0794-swim-in-rising-water](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0794-swim-in-rising-water) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1628-count-submatrices-with-all-ones) |
 | [1677-matrix-diagonal-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1677-matrix-diagonal-sum) |
