@@ -286,6 +286,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0239-sliding-window-maximum) |
 | [0940-fruit-into-baskets](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0940-fruit-into-baskets) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Enumeration
@@ -442,6 +443,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2032-largest-odd-number-in-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2235-capitalize-the-title](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2235-capitalize-the-title) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -474,6 +476,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0724-find-pivot-index) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1477-product-of-the-last-k-numbers) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Hash Function
 |  |
@@ -542,6 +545,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1612-avoid-flood-in-the-city) |
 | [1675-magnetic-force-between-two-balls](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1675-magnetic-force-between-two-balls) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3790-fruits-into-baskets-ii) |
