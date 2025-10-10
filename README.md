@@ -163,6 +163,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1628-count-submatrices-with-all-ones) |
+| [1675-magnetic-force-between-two-balls](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1675-magnetic-force-between-two-balls) |
 | [1677-matrix-diagonal-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1677-matrix-diagonal-sum) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1917-maximum-average-pass-ratio) |
@@ -316,6 +317,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1256-rank-transform-of-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1675-magnetic-force-between-two-balls) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2479-meeting-rooms-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2479-meeting-rooms-iii) |
@@ -531,6 +533,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1612-avoid-flood-in-the-city) |
+| [1675-magnetic-force-between-two-balls](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1675-magnetic-force-between-two-balls) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
