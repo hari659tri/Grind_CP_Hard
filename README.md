@@ -148,6 +148,7 @@
 | [0830-largest-triangle-area](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0830-largest-triangle-area) |
 | [0853-most-profit-assigning-work](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0853-most-profit-assigning-work) |
 | [0907-koko-eating-bananas](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0907-koko-eating-bananas) |
+| [0924-fair-candy-swap](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0924-fair-candy-swap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0940-fruit-into-baskets) |
 | [1018-largest-perimeter-triangle](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1018-largest-perimeter-triangle) |
@@ -227,6 +228,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0721-accounts-merge) |
 | [0782-jewels-and-stones](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0782-jewels-and-stones) |
+| [0924-fair-candy-swap](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0924-fair-candy-swap) |
 | [0940-fruit-into-baskets](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0940-fruit-into-baskets) |
 | [1256-rank-transform-of-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1256-rank-transform-of-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -316,6 +318,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0721-accounts-merge) |
 | [0853-most-profit-assigning-work](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0853-most-profit-assigning-work) |
+| [0924-fair-candy-swap](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0924-fair-candy-swap) |
 | [1018-largest-perimeter-triangle](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1256-rank-transform-of-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -535,6 +538,7 @@
 | [0794-swim-in-rising-water](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0794-swim-in-rising-water) |
 | [0853-most-profit-assigning-work](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0853-most-profit-assigning-work) |
 | [0907-koko-eating-bananas](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0907-koko-eating-bananas) |
+| [0924-fair-candy-swap](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0924-fair-candy-swap) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
