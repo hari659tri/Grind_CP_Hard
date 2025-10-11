@@ -38,6 +38,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2507-number-of-common-factors](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2507-number-of-common-factors) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -184,6 +185,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2479-meeting-rooms-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -278,6 +280,7 @@
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2032-largest-odd-number-in-string) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -553,6 +556,7 @@
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3791-fruits-into-baskets-iii) |
