@@ -217,6 +217,7 @@
 | [0139-word-break](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0202-happy-number) |
@@ -598,6 +599,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0234-palindrome-linked-list) |
@@ -675,6 +677,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0146-lru-cache) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1477-product-of-the-last-k-numbers) |
 | [2023-design-movie-rental-system](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2023-design-movie-rental-system) |
 | [3678-design-task-manager](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3678-design-task-manager) |
@@ -690,4 +693,8 @@
 |  |
 | ------- |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
