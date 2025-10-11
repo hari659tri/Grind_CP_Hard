@@ -224,6 +224,7 @@
 | [0229-majority-element-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0560-subarray-sum-equals-k) |
@@ -605,6 +606,7 @@
 | [0234-palindrome-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Monotonic Stack
@@ -678,6 +680,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0460-lfu-cache) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1477-product-of-the-last-k-numbers) |
 | [2023-design-movie-rental-system](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2023-design-movie-rental-system) |
 | [3678-design-task-manager](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3678-design-task-manager) |
@@ -697,4 +700,5 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
