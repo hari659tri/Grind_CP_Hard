@@ -48,6 +48,7 @@
 | [3279-alice-and-bob-playing-flower-game](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3336-water-bottles-ii) |
+| [3567-convert-date-to-binary](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3567-convert-date-to-binary) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3830-find-closest-person](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3830-find-closest-person) |
@@ -481,6 +482,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2887-sort-vowels-in-a-string) |
 | [3379-score-of-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3379-score-of-a-string) |
+| [3567-convert-date-to-binary](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3567-convert-date-to-binary) |
 | [3811-reverse-degree-of-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Depth-First Search
