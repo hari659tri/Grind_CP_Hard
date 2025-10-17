@@ -92,6 +92,7 @@
 | [3336-water-bottles-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3790-fruits-into-baskets-ii) |
+| [3811-reverse-degree-of-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3811-reverse-degree-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -480,6 +481,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2887-sort-vowels-in-a-string) |
 | [3379-score-of-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3379-score-of-a-string) |
+| [3811-reverse-degree-of-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Depth-First Search
 |  |
