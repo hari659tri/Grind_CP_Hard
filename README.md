@@ -474,6 +474,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1797-goal-parser-interpretation](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1797-goal-parser-interpretation) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2032-largest-odd-number-in-string) |
