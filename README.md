@@ -489,6 +489,7 @@
 | [2235-capitalize-the-title](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2235-capitalize-the-title) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2887-sort-vowels-in-a-string) |
+| [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3379-score-of-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3379-score-of-a-string) |
 | [3567-convert-date-to-binary](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3567-convert-date-to-binary) |
 | [3811-reverse-degree-of-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3811-reverse-degree-of-a-string) |
