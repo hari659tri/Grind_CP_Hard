@@ -65,6 +65,7 @@
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2427-first-letter-to-appear-twice](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2427-first-letter-to-appear-twice) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -257,6 +258,7 @@
 | [2186-count-vowel-substrings-of-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2427-first-letter-to-appear-twice](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2427-first-letter-to-appear-twice) |
 | [2479-meeting-rooms-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2479-meeting-rooms-iii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -276,6 +278,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2427-first-letter-to-appear-twice](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2427-first-letter-to-appear-twice) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -496,6 +499,7 @@
 | [2235-capitalize-the-title](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2235-capitalize-the-title) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2427-first-letter-to-appear-twice](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2427-first-letter-to-appear-twice) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2887-sort-vowels-in-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2887-sort-vowels-in-a-string) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
