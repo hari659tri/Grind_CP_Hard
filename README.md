@@ -157,6 +157,7 @@
 | [0853-most-profit-assigning-work](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0853-most-profit-assigning-work) |
 | [0907-koko-eating-bananas](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0924-fair-candy-swap) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0940-fruit-into-baskets) |
 | [1018-largest-perimeter-triangle](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1018-largest-perimeter-triangle) |
@@ -248,6 +249,7 @@
 | [0721-accounts-merge](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0721-accounts-merge) |
 | [0782-jewels-and-stones](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0782-jewels-and-stones) |
 | [0924-fair-candy-swap](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0924-fair-candy-swap) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0940-fruit-into-baskets](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0940-fruit-into-baskets) |
 | [1256-rank-transform-of-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -358,6 +360,7 @@
 | [0721-accounts-merge](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0721-accounts-merge) |
 | [0853-most-profit-assigning-work](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0853-most-profit-assigning-work) |
 | [0924-fair-candy-swap](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0924-fair-candy-swap) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0929-groups-of-special-equivalent-strings) |
 | [1018-largest-perimeter-triangle](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -486,6 +489,7 @@
 | [0721-accounts-merge](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0721-accounts-merge) |
 | [0782-jewels-and-stones](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0812-rotate-string) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0929-groups-of-special-equivalent-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1302-delete-characters-to-make-fancy-string) |
