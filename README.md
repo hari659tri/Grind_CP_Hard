@@ -19,6 +19,7 @@
 | [0326-power-of-three](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0670-maximum-swap) |
@@ -86,6 +87,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -476,6 +478,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0166-fraction-to-recurring-decimal) |
 | [0282-expression-add-operators](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0721-accounts-merge](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0721-accounts-merge) |
