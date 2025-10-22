@@ -258,6 +258,7 @@
 | [2023-design-movie-rental-system](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2427-first-letter-to-appear-twice) |
@@ -278,6 +279,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2427-first-letter-to-appear-twice) |
@@ -500,6 +502,7 @@
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2235-capitalize-the-title](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2235-capitalize-the-title) |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2427-first-letter-to-appear-twice) |
