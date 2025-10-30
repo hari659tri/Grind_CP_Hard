@@ -243,6 +243,7 @@
 | [0187-repeated-dna-sequences](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0229-majority-element-ii) |
+| [0290-word-pattern](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0290-word-pattern) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0460-lfu-cache) |
@@ -490,6 +491,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0187-repeated-dna-sequences) |
 | [0282-expression-add-operators](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0282-expression-add-operators) |
+| [0290-word-pattern](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0290-word-pattern) |
 | [0402-remove-k-digits](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0451-sort-characters-by-frequency) |
