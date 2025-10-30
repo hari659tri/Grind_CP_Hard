@@ -159,6 +159,7 @@
 | [0853-most-profit-assigning-work](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0853-most-profit-assigning-work) |
 | [0907-koko-eating-bananas](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0924-fair-candy-swap) |
+| [0926-find-and-replace-pattern](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0926-find-and-replace-pattern) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0940-fruit-into-baskets) |
@@ -255,6 +256,7 @@
 | [0782-jewels-and-stones](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0837-most-common-word) |
 | [0924-fair-candy-swap](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0924-fair-candy-swap) |
+| [0926-find-and-replace-pattern](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0926-find-and-replace-pattern) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0940-fruit-into-baskets](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0940-fruit-into-baskets) |
 | [1256-rank-transform-of-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1256-rank-transform-of-an-array) |
@@ -503,6 +505,7 @@
 | [0782-jewels-and-stones](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0837-most-common-word) |
+| [0926-find-and-replace-pattern](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0926-find-and-replace-pattern) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0929-groups-of-special-equivalent-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1146-greatest-common-divisor-of-strings) |
