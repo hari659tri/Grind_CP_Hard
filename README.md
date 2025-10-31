@@ -50,6 +50,7 @@
 | [3321-type-of-triangle](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3336-water-bottles-ii) |
 | [3567-convert-date-to-binary](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3567-convert-date-to-binary) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3830-find-closest-person](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3830-find-closest-person) |
@@ -218,6 +219,7 @@
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -278,6 +280,7 @@
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3678-design-task-manager](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3872-find-most-frequent-vowel-and-consonant) |
