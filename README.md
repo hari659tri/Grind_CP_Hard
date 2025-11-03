@@ -89,6 +89,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -119,6 +120,7 @@
 | [0055-jump-game](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0079-word-search) |
@@ -672,6 +674,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0200-number-of-islands) |
