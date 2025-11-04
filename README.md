@@ -478,6 +478,7 @@
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -623,6 +624,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2227-sum-of-subarray-ranges](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2227-sum-of-subarray-ranges) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Binary Search
 |  |
@@ -721,6 +723,7 @@
 | [0460-lfu-cache](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2411-spiral-matrix-iv) |
 ## Monotonic Stack
