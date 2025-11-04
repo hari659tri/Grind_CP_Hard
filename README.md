@@ -227,6 +227,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -289,6 +290,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -354,6 +356,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Enumeration
@@ -423,6 +426,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2023-design-movie-rental-system) |
 | [2479-meeting-rooms-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2479-meeting-rooms-iii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3678-design-task-manager) |
 ## Dynamic Programming
 |  |
