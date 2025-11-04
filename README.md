@@ -554,6 +554,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0079-word-search) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0721-accounts-merge) |
@@ -591,6 +592,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0721-accounts-merge) |
@@ -670,6 +672,7 @@
 ## Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Segment Tree
 |  |
@@ -712,6 +715,7 @@
 | [0002-add-two-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0025-reverse-nodes-in-k-group) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0146-lru-cache) |
@@ -830,4 +834,8 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0187-repeated-dna-sequences) |
+## Binary Tree
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
