@@ -11,18 +11,16 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        ListNode* slow=head;
-        ListNode*fast=head;
+        // here we are going to use the herese and tertoise algorithm's
+          ListNode*slow=head;
+          ListNode*fast=head;
 
-         while(fast!=NULL&&fast->next!=NULL){
+          while(fast!=NULL&&fast->next!=NULL){
             slow=slow->next;
             fast=fast->next->next;
+          }
 
-         }
-
-         return slow;
-
-         //time complexity O(n/2)
-         // space complexity O(1)
+          return slow;
+          
     }
 };
