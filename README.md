@@ -67,6 +67,7 @@
 | [0342-power-of-four](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0342-power-of-four) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2427-first-letter-to-appear-twice](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2427-first-letter-to-appear-twice) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
@@ -455,6 +456,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2530-minimize-maximum-of-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2530-minimize-maximum-of-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -466,6 +468,7 @@
 | ------- |
 | [0139-word-break](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1013-fibonacci-number) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Two Pointers
 |  |
