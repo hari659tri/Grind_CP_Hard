@@ -332,6 +332,7 @@
 | [0853-most-profit-assigning-work](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0876-hand-of-straights) |
 | [1018-largest-perimeter-triangle](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1018-largest-perimeter-triangle) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1612-avoid-flood-in-the-city) |
@@ -548,6 +549,7 @@
 | [0929-groups-of-special-equivalent-strings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0929-groups-of-special-equivalent-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -649,6 +651,7 @@
 | [0503-next-greater-element-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1078-remove-outermost-parentheses) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -769,6 +772,7 @@
 | [0402-remove-k-digits](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0503-next-greater-element-ii) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2227-sum-of-subarray-ranges) |
