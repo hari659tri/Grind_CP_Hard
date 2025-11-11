@@ -152,6 +152,7 @@
 | [0347-top-k-frequent-elements](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0474-ones-and-zeroes](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0503-next-greater-element-ii) |
@@ -459,6 +460,7 @@
 | [0139-word-break](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0410-split-array-largest-sum) |
+| [0474-ones-and-zeroes](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0474-ones-and-zeroes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -548,6 +550,7 @@
 | [0412-fizz-buzz](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0474-ones-and-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0721-accounts-merge](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0721-accounts-merge) |
 | [0782-jewels-and-stones](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0782-jewels-and-stones) |
