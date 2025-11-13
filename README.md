@@ -86,6 +86,7 @@
 | [0273-integer-to-english-words](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2050-count-good-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2215-finding-3-digit-even-numbers) |
@@ -555,6 +556,7 @@
 | [0282-expression-add-operators](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0434-number-of-segments-in-a-string) |
@@ -666,6 +668,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0503-next-greater-element-ii) |
