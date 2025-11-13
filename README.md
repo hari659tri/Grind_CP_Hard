@@ -88,6 +88,7 @@
 | [0342-power-of-four](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2050-count-good-numbers) |
+| [2215-finding-3-digit-even-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2215-finding-3-digit-even-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3799-unique-3-digit-even-numbers) |
@@ -207,6 +208,7 @@
 | [2023-design-movie-rental-system](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2215-finding-3-digit-even-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2215-finding-3-digit-even-numbers) |
 | [2227-sum-of-subarray-ranges](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -292,6 +294,7 @@
 | [2023-design-movie-rental-system](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2215-finding-3-digit-even-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2215-finding-3-digit-even-numbers) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -383,6 +386,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0204-count-primes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2215-finding-3-digit-even-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2215-finding-3-digit-even-numbers) |
 | [2507-number-of-common-factors](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2507-number-of-common-factors) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2873-prime-pairs-with-target-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2873-prime-pairs-with-target-sum) |
@@ -422,6 +426,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1675-magnetic-force-between-two-balls) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2215-finding-3-digit-even-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2215-finding-3-digit-even-numbers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2479-meeting-rooms-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2497-maximum-matching-of-players-with-trainers) |
