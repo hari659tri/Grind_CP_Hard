@@ -90,6 +90,7 @@
 | [2050-count-good-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3799-unique-3-digit-even-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3799-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -244,6 +245,7 @@
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3791-fruits-into-baskets-iii) |
+| [3799-unique-3-digit-even-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3799-unique-3-digit-even-numbers) |
 | [3936-split-array-by-prime-indices](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3936-split-array-by-prime-indices) |
 ## Hash Table
 |  |
@@ -303,6 +305,7 @@
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3799-unique-3-digit-even-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3799-unique-3-digit-even-numbers) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -387,6 +390,7 @@
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3799-unique-3-digit-even-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3799-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
