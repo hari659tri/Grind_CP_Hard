@@ -330,6 +330,7 @@
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
@@ -364,6 +365,7 @@
 | [2530-minimize-maximum-of-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2530-minimize-maximum-of-array) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -595,6 +597,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2887-sort-vowels-in-a-string) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3379-score-of-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3379-score-of-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3567-convert-date-to-binary](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3567-convert-date-to-binary) |
 | [3811-reverse-degree-of-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3872-find-most-frequent-vowel-and-consonant) |
