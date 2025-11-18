@@ -36,6 +36,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1477-product-of-the-last-k-numbers) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2050-count-good-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -89,6 +90,7 @@
 | [0342-power-of-four](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2050-count-good-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2215-finding-3-digit-even-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -100,6 +102,7 @@
 | [0059-spiral-matrix-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0735-asteroid-collision) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -205,6 +208,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -535,6 +539,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0239-sliding-window-maximum) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Monotonic Queue
 |  |
