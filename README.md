@@ -170,6 +170,7 @@
 | [0611-valid-triangle-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0628-maximum-product-of-three-numbers) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0721-accounts-merge](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0735-asteroid-collision) |
