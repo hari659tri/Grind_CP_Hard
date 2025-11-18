@@ -93,6 +93,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2050-count-good-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2215-finding-3-digit-even-numbers) |
+| [2573-remove-nodes-from-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2573-remove-nodes-from-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3799-unique-3-digit-even-numbers) |
@@ -696,6 +697,7 @@
 | [2227-sum-of-subarray-ranges](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2227-sum-of-subarray-ranges) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2573-remove-nodes-from-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2573-remove-nodes-from-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -802,6 +804,7 @@
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2411-spiral-matrix-iv) |
+| [2573-remove-nodes-from-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -813,6 +816,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2227-sum-of-subarray-ranges) |
+| [2573-remove-nodes-from-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2573-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
