@@ -105,6 +105,7 @@
 | [0735-asteroid-collision](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0735-asteroid-collision) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2411-spiral-matrix-iv) |
@@ -220,6 +221,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2215-finding-3-digit-even-numbers) |
 | [2227-sum-of-subarray-ranges](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -304,6 +306,7 @@
 | [2079-delete-duplicate-folders-in-system](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2215-finding-3-digit-even-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -440,6 +443,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2215-finding-3-digit-even-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2479-meeting-rooms-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2497-maximum-matching-of-players-with-trainers) |
