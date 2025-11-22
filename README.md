@@ -628,6 +628,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0200-number-of-islands) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0794-swim-in-rising-water) |
@@ -753,6 +754,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Segment Tree
 |  |
@@ -928,4 +930,5 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
