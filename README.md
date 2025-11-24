@@ -66,6 +66,7 @@
 | [0078-subsets](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0342-power-of-four) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -722,6 +723,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0240-search-a-2d-matrix-ii) |
 | [0367-valid-perfect-square](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0410-split-array-largest-sum) |
@@ -759,6 +761,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0222-count-complete-tree-nodes](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -937,6 +940,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0222-count-complete-tree-nodes](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
