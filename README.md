@@ -209,6 +209,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1675-magnetic-force-between-two-balls) |
 | [1677-matrix-diagonal-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1677-matrix-diagonal-sum) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -602,6 +603,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1797-goal-parser-interpretation](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1797-goal-parser-interpretation) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -656,6 +658,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0724-find-pivot-index) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1477-product-of-the-last-k-numbers) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2530-minimize-maximum-of-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2530-minimize-maximum-of-array) |
