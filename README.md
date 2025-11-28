@@ -654,6 +654,7 @@
 | [1442-number-of-operations-to-make-network-connected](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Trie
 |  |
 | ------- |
@@ -788,6 +789,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Segment Tree
 |  |
 | ------- |
