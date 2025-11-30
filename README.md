@@ -640,6 +640,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0200-number-of-islands) |
@@ -713,6 +714,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0316-remove-duplicate-letters) |
@@ -779,6 +781,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -965,6 +968,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0114-flatten-binary-tree-to-linked-list) |
