@@ -259,6 +259,7 @@
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -410,6 +411,7 @@
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -518,6 +520,7 @@
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Memoization
 |  |
 | ------- |
@@ -565,10 +568,12 @@
 | [0239-sliding-window-maximum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0239-sliding-window-maximum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0239-sliding-window-maximum) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## String
 |  |
 | ------- |
@@ -682,6 +687,7 @@
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2530-minimize-maximum-of-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2530-minimize-maximum-of-array) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Hash Function
