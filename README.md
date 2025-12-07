@@ -652,6 +652,7 @@
 | ------- |
 | [0079-word-search](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -798,6 +799,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -991,6 +993,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -1007,6 +1010,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0653-two-sum-iv-input-is-a-bst) |
