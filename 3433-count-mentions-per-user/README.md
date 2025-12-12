@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-mentions-per-user">3721. Count Mentions Per User</a></h2><h3>Medium</h3><hr><p>You are given an integer <code>numberOfUsers</code> representing the total number of users and an array <code>events</code> of size <code>n x 3</code>.</p>
+<h2><a href="https://leetcode.com/problems/count-mentions-per-user/description/?envType=daily-question&envId=2025-12-12">3721. Count Mentions Per User</a></h2><h3>Medium</h3><hr><p>You are given an integer <code>numberOfUsers</code> representing the total number of users and an array <code>events</code> of size <code>n x 3</code>.</p>
 
 <p>Each <code inline="">events[i]</code> can be either of the following two types:</p>
 
