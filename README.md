@@ -251,6 +251,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2722-prime-in-diagonal](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2722-prime-in-diagonal) |
 | [2873-prime-pairs-with-target-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2873-prime-pairs-with-target-sum) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -333,6 +334,7 @@
 | [2479-meeting-rooms-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2479-meeting-rooms-iii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -646,6 +648,7 @@
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2887-sort-vowels-in-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2887-sort-vowels-in-a-string) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3379-score-of-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3379-score-of-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -683,6 +686,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0208-implement-trie-prefix-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2079-delete-duplicate-folders-in-system) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Prefix Sum
 |  |
 | ------- |
