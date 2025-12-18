@@ -267,6 +267,7 @@
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -421,6 +422,7 @@
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Enumeration
 |  |
@@ -703,6 +705,7 @@
 | [2618-maximize-the-minimum-powered-city](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Hash Function
 |  |
