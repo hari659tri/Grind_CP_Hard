@@ -26,6 +26,7 @@
 | [0670-maximum-swap](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0670-maximum-swap) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0840-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -187,6 +188,7 @@
 | [0794-swim-in-rising-water](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0837-most-common-word) |
+| [0840-magic-squares-in-grid](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0840-magic-squares-in-grid) |
 | [0853-most-profit-assigning-work](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0907-koko-eating-bananas) |
@@ -312,6 +314,7 @@
 | [0721-accounts-merge](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0721-accounts-merge) |
 | [0782-jewels-and-stones](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0837-most-common-word) |
+| [0840-magic-squares-in-grid](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0840-magic-squares-in-grid) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0876-hand-of-straights](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0876-hand-of-straights) |
 | [0924-fair-candy-swap](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0924-fair-candy-swap) |
@@ -849,6 +852,7 @@
 | [0200-number-of-islands](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0240-search-a-2d-matrix-ii) |
 | [0794-swim-in-rising-water](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0840-magic-squares-in-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
