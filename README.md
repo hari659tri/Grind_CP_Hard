@@ -226,6 +226,7 @@
 | [1950-sign-of-the-product-of-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2023-design-movie-rental-system](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2023-design-movie-rental-system) |
@@ -684,6 +685,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Trie
@@ -733,6 +735,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Union Find
 |  |
 | ------- |
@@ -741,6 +744,7 @@
 | [0721-accounts-merge](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0794-swim-in-rising-water) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Graph
 |  |
 | ------- |
@@ -801,6 +805,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1612-avoid-flood-in-the-city) |
 | [1675-magnetic-force-between-two-balls](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1675-magnetic-force-between-two-balls) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -858,6 +863,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1628-count-submatrices-with-all-ones) |
 | [1677-matrix-diagonal-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1677-matrix-diagonal-sum) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2411-spiral-matrix-iv](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2411-spiral-matrix-iv) |
 | [2722-prime-in-diagonal](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2722-prime-in-diagonal) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
