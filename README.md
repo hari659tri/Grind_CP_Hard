@@ -9,6 +9,7 @@
 | [0007-reverse-integer](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0069-sqrtx) |
 | [0166-fraction-to-recurring-decimal](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0189-rotate-array) |
@@ -141,6 +142,7 @@
 | [0056-merge-intervals](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0079-word-search) |
