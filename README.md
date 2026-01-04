@@ -308,6 +308,7 @@
 | [0229-majority-element-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0460-lfu-cache) |
@@ -361,6 +362,7 @@
 | [0169-majority-element](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0621-task-scheduler) |
 | [0837-most-common-word](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0837-most-common-word) |
@@ -590,6 +592,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0387-first-unique-character-in-a-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -624,6 +627,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0412-fizz-buzz) |
