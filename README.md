@@ -156,6 +156,7 @@
 | [0118-pascals-triangle](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -524,6 +525,7 @@
 | [0118-pascals-triangle](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0152-maximum-product-subarray) |
