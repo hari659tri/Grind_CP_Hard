@@ -232,6 +232,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1975-maximum-matrix-sum) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2023-design-movie-rental-system](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2023-design-movie-rental-system) |
@@ -405,6 +406,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1975-maximum-matrix-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1975-maximum-matrix-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2032-largest-odd-number-in-string) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -878,6 +880,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1628-count-submatrices-with-all-ones) |
 | [1677-matrix-diagonal-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1677-matrix-diagonal-sum) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1975-maximum-matrix-sum) |
 | [2411-spiral-matrix-iv](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2411-spiral-matrix-iv) |
 | [2722-prime-in-diagonal](https://github.com/hari659tri/Grind_CP_Hard/tree/master/2722-prime-in-diagonal) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
