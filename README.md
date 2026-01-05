@@ -185,6 +185,7 @@
 | [0621-task-scheduler](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0721-accounts-merge](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0724-find-pivot-index) |
@@ -807,6 +808,7 @@
 | [0410-split-array-largest-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0611-valid-triangle-number) |
+| [0704-binary-search](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0704-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0794-swim-in-rising-water) |
 | [0853-most-profit-assigning-work](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0853-most-profit-assigning-work) |
 | [0907-koko-eating-bananas](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0907-koko-eating-bananas) |
