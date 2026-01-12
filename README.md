@@ -74,6 +74,7 @@
 | [0191-number-of-1-bits](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0342-power-of-four) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -174,6 +175,7 @@
 | [0229-majority-element-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0410-split-array-largest-sum) |
@@ -583,6 +585,7 @@
 | [0189-rotate-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -811,6 +814,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0410-split-array-largest-sum) |
