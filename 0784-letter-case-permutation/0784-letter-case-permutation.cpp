@@ -3,7 +3,7 @@ public:
       vector<string>ans;
      
     
-     void solve(string s,int n,int idx, string temp){
+     void solve(string s,int n,int idx, string &temp){
         if(idx==n){
             ans.push_back(temp);
             return;
@@ -12,6 +12,7 @@ public:
         if(isdigit(s[idx])){
             temp+=s[idx];
             solve(s,n,idx+1,temp);
+            temp.pop_back();
         }
         
         if(isalpha(s[idx])){
