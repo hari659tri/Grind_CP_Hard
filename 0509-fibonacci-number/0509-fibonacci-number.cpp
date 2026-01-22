@@ -1,17 +1,19 @@
 class Solution {
 public:
     int fib(int n) {
-        if(n==0||n==1) 
-         return n;
-        int a=0;
-        int b=1;
-         int sum=0;
-         for(int i=2;i<=n;i++){
-            sum=a+b;
-            a=b;
-            b=sum;
-         }
+        
+         if(n==0||n==1)
+           return n;
 
-         return sum;
+           int p1=0;
+           int p2=1;
+           for(int i=2;i<=n;i++){
+              int sum=p1+p2;
+              p1=p2;
+              p2=sum;
+           }
+
+         return p2;
+
     }
 };
