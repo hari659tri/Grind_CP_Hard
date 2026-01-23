@@ -6,53 +6,23 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
- class Solution {
- public:
+class Solution {
+public:
     ListNode *detectCycle(ListNode *head) {
         
-        // unordered_map<ListNode*,bool>mp;
-        // ListNode*temp=head;
+        unordered_map<ListNode*,bool>mp;
+        ListNode*temp=head;
 
-        // while(temp!=NULL){
+        while(temp!=NULL){
 
-        //     if(mp.find(temp)!=mp.end()){
-        //           return temp;
-        //     }
-
-        //         mp[temp]=true;
-        //         temp=temp->next;
-        // }
-
-        // return NULL;
-
-        // time complexity O(n)
-        // space complexity O(n) storing all nodes address
-
-     
-      ListNode*slow=head;
-
-      ListNode *fast=head;
-     bool iscycle=false;
-       while(fast!=NULL&&fast->next!=NULL){
-        slow=slow->next;
-        fast=fast->next->next;
-
-        if(slow==fast){
-            slow=head;
-            while(slow!=fast){
-             slow=slow->next;
-             fast=fast->next;
-
+            if(mp.find(temp)!=mp.end()){
+                  return temp;
             }
-            return slow;
 
+                mp[temp]=true;
+                temp=temp->next;
         }
-       }
 
-       
-      
-
-
-  return NULL;
+        return NULL;
     }
 };
