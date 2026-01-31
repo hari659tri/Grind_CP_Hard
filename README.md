@@ -201,6 +201,7 @@
 | [0721-accounts-merge](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0735-asteroid-collision) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0830-largest-triangle-area) |
@@ -828,6 +829,7 @@
 | [0493-reverse-pairs](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0794-swim-in-rising-water) |
 | [0853-most-profit-assigning-work](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0853-most-profit-assigning-work) |
 | [0907-koko-eating-bananas](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0907-koko-eating-bananas) |
