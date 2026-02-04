@@ -5,24 +5,22 @@ public:
         int n=height.size();
         int i=0;
         int j=n-1;
-        int ans=INT_MIN;
-
-          while(i<j){
-
+       int ans=-2*1e9;
+        while(i<j){
+            int len=j-i;
             int h=min(height[i],height[j]);
-     
-              int area=h*(j-i);
-              ans=max(ans,area);
+            if(height[i]<height[j]){
+             ans=max(ans,len*height[i]);
+             i++;
+            }
+            else{
+                ans=max(ans,len*height[j]);
+                j--;
+            }
+           
+           
+        }
 
-              if(height[i]<=height[j]){
-                i++;
-              }
-              else{
-               j--;
-              }
-    
-          }
-
-          return ans;
+        return ans;
     }
 };
