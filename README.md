@@ -1085,4 +1085,8 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Database
+|  |
+| ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->
