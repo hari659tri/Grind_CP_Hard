@@ -1,24 +1,30 @@
 class Solution {
 public:
     int reverse(int x) {
-        bool sign=true;
-        if(x<0) sign=false;
-        long long s=abs((long long)x);
-        long long sum=0;
-        
-        while(s!=0){
-            int rem=s%10;
-            sum=sum*10+rem;
-            s=s/10;
+        if(x==0) 
+          return 0;
+        long long res=x;
+        bool neg=false;
 
+        if(res<0){
+            neg=true;
+            res=llabs(res);
         }
 
+        long long rev=0;
+        while(res>0){
+            int rem=res%10;
+            rev=rev*10+rem;
+            res=res/10;
+        }  
 
-      if(sum>INT_MAX||sum<INT_MIN) return 0;
+     if(neg==true) 
+       rev=-rev;
+        if(rev>INT_MAX||rev<INT_MIN)  
+          return 0;
 
-        if(sign==false) sum=-sum;
-        return sum;
+        
+        return rev;
 
     }
-
 };
