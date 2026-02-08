@@ -1,19 +1,16 @@
 class Solution {
 public:
     int firstUniqChar(string s) {
-        // brute force approchah
 
-        unordered_map<char,pair<int,int>>mp;
-        for(int i=0;i<s.size();i++){
-           mp[s[i]].first=i;
-           mp[s[i]].second++;
-        }
+        unordered_map<char,int>mp;
+        for(auto it:s) 
+         mp[it]++;
 
-        for(auto &it:s){
-            if(mp[it].second==1)
-            return mp[it].first;
-        }
+         for(int i=0;i<s.size();i++){
+            if(mp[s[i]]==1) 
+            return i;
+         }
 
-        return -1;
+     return -1;
     }
 };
