@@ -10,6 +10,7 @@
 | [0009-palindrome-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0069-sqrtx) |
 | [0166-fraction-to-recurring-decimal](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0166-fraction-to-recurring-decimal) |
@@ -147,6 +148,7 @@
 | [0039-combination-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0056-merge-intervals) |
@@ -894,6 +896,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0079-word-search) |
