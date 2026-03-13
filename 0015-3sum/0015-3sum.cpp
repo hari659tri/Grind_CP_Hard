@@ -1,48 +1,46 @@
 class Solution {
 public:
+  
+  vector<vector<int>>ans;
+
+   void twosum(vector<int>& nums,int target,int i,int j){
+
+     while(i<j){
+        if(nums[i]+nums[j]>target){
+            j--;
+        }
+        else if(nums[i]+nums[j]<target){
+            i++;
+        }
+        else{
+            while(i<j&&nums[i]==nums[i+1]){
+                i++;
+            }
+             while(i<j&&nums[j]==nums[j-1]){
+                j--;
+            }
+
+            ans.push_back({-target,nums[i],nums[j]});
+            i++;
+            j--;
+        }
+     }
+   }
+
     vector<vector<int>> threeSum(vector<int>& nums) {
         
-      // optimized solution  
-      
         int n=nums.size();
-        
-           vector<vector<int>> ans;
-            sort(nums.begin(),nums.end());
+        sort(nums.begin(),nums.end());
+        for(int i=0;i<n-2;i++){
+            if(i!=0&&nums[i]==nums[i-1]) 
+              continue;
 
-           for(int i=0;i<n;i++){
-            if(i>0&&nums[i]==nums[i-1]) continue;
+              int n1=nums[i];
+              int target=-n1;
+              twosum(nums,target,i+1,n-1);
+        }
 
-
-            int j=i+1;
-            int k=n-1;
-
-             while(j<k){
-               
-               int sum=nums[i]+nums[j]+nums[k];
-
-               if(sum<0){
-                j++;
-
-               }
-               else if(sum>0){
-                  k--;
-               }
-               else{
-                vector<int>temp={nums[i],nums[j],nums[k]};
-                j++;
-                k--;
-                ans.push_back(temp);
-               
-                while(j<k&&nums[j]==nums[j-1]) j++;
-                while(k>j&&nums[k]==nums[k+1]) k--;
-               }
-
-
-             }
-           }
-       
-
-       return ans;
+        return ans;
 
     }
 };
