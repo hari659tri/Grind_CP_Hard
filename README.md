@@ -335,6 +335,7 @@
 | [0290-word-pattern](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0451-sort-characters-by-frequency) |
@@ -390,6 +391,7 @@
 | [0169-majority-element](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0621-task-scheduler) |
@@ -666,6 +668,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0402-remove-k-digits) |
