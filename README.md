@@ -613,6 +613,7 @@
 | [0283-move-zeroes](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0611-valid-triangle-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0611-valid-triangle-number) |
@@ -668,6 +669,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0394-decode-string) |
