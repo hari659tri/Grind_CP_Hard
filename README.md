@@ -216,6 +216,7 @@
 | [0840-magic-squares-in-grid](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0840-magic-squares-in-grid) |
 | [0853-most-profit-assigning-work](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0876-hand-of-straights) |
+| [0888-fair-candy-swap](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0888-fair-candy-swap) |
 | [0907-koko-eating-bananas](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0924-fair-candy-swap) |
 | [0926-find-and-replace-pattern](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0926-find-and-replace-pattern) |
@@ -351,6 +352,7 @@
 | [0840-magic-squares-in-grid](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0840-magic-squares-in-grid) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0876-hand-of-straights](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0876-hand-of-straights) |
+| [0888-fair-candy-swap](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0888-fair-candy-swap) |
 | [0924-fair-candy-swap](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0924-fair-candy-swap) |
 | [0926-find-and-replace-pattern](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0926-find-and-replace-pattern) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0929-groups-of-special-equivalent-strings) |
@@ -506,6 +508,7 @@
 | [0759-set-intersection-size-at-least-two](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0759-set-intersection-size-at-least-two) |
 | [0853-most-profit-assigning-work](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0876-hand-of-straights) |
+| [0888-fair-candy-swap](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0888-fair-candy-swap) |
 | [0924-fair-candy-swap](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0924-fair-candy-swap) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0929-groups-of-special-equivalent-strings) |
 | [1018-largest-perimeter-triangle](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1018-largest-perimeter-triangle) |
@@ -854,6 +857,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0794-swim-in-rising-water) |
 | [0853-most-profit-assigning-work](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0853-most-profit-assigning-work) |
+| [0888-fair-candy-swap](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0888-fair-candy-swap) |
 | [0907-koko-eating-bananas](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0924-fair-candy-swap) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/hari659tri/Grind_CP_Hard/tree/master/1056-capacity-to-ship-packages-within-d-days) |
