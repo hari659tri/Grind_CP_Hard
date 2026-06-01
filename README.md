@@ -184,6 +184,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0239-sliding-window-maximum) |
@@ -336,6 +337,7 @@
 | [0202-happy-number](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0290-word-pattern) |
@@ -503,6 +505,7 @@
 | [0148-sort-list](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/hari659tri/Grind_CP_Hard/tree/master/0349-intersection-of-two-arrays) |
